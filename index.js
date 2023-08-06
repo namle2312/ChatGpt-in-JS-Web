@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = 'your-api';
 const API_URL = "https://api.openai.com/v1/chat/completions";
 
 const promptInput = document.getElementById("promptInput");
